@@ -1,0 +1,11 @@
+export const LOAD_FORMS = 'LOAD_FORMS';
+export const SWITCH_SUB = 'SWITCH_SUB';
+export const LOAD_SUBS = 'GET_SUBS';
+export const NEED_SWITCH = 'NEED_SWITCH';
+export const UPDT_FORM = 'UPDT_FORM';
+export const SEND_ERR = 'SEND_ERR';
+export const AUTH_TKN = 'AUTH_TKN';
+export const GET_USER = 'GET_USER';
+export const ANLY_STATE = 'ANLY_STATE';
+export const ANLY_DATA = 'ANLY_DATA';
+export const ANLY_STATE_UPDT = 'ANLY_STATE_UPDT';
